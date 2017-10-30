@@ -1,17 +1,13 @@
----
-title: readme
----
-
-hello
-
-Sommaire du readme 
+Here you find following information
 
 1. Words for the visiters
-1. Words for the owner
+1. Words for the owners
 
 =====
 
 Ce site est créé sur le service de GitHub Pages.
+
+![](img/logoLMAC_SU.jpg)
 
 # Words for the visiters
 
