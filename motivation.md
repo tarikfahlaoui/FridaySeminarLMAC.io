@@ -1,5 +1,5 @@
 ---
-title:motivation
+title: motivation
 ---
 
 here is our motivation.
