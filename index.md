@@ -1,5 +1,5 @@
 
-![New logo of the LMAC](img/logoLMAC_SU.jpg =250x)
+<img src="img/logoLMAC_SU.jpg" alt="New logo of the LMAC" style="width: 200px;"/>
 
 ## Welcome to GitHub Pages
 
